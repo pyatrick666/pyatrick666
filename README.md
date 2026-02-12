@@ -1,5 +1,6 @@
 # 💫 About Me:
-Web Development<br>Networking 
+Software Engineering
+Web Development <br>Networking 
 
 
 ## 🌐 Socials:
