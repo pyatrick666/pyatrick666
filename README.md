@@ -1,7 +1,7 @@
 # 💫 About Me:
 Software Engineering <br>
 Networking <br>
-Front-end & Back-end Dev <br>
+Front-end & Back-end <br>
  
  
 ## 🌐 Socials:
