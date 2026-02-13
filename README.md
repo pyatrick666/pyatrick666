@@ -2,7 +2,7 @@
 Software Engineering <br>
 Networking <br>
 Fullstack Web Development <br>
- 
+  
    
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/wpKhDYgv) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/evolthrottle ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/evolthrottle) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Pyatrick) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Sychomaybe) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@999eMEvol) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pyatrick666@gmail.com) [![Spotify](https://img.shields.io/badge/Spotify-%1ED760.svg?logo=Spotify&logoColor=white)](https://open.spotify.com/user/31x66lmobxv6oqfgjj7bmmarookq?si=3d7e4123872e4503&nd=1&dlsi=01b5f515b0564b3b) 
