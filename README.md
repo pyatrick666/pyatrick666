@@ -1,7 +1,7 @@
 # About Me:
 Software Engineering <br>
 Networking <br>
-Fullstack Web Development <br>
+Web Development <br>
   
    
 ## 🌐 Socials:
