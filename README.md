@@ -140,7 +140,7 @@
   />
 </div>
 
-### 👀 Profile Views
+### Profile Views
 
 [![](https://visitcount.itsvg.in/api?id=Pyatrick666&icon=0&color=0)](https://visitcount.itsvg.in)
 
