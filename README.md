@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </div>
 
@@ -12,9 +12,6 @@
 
 </div>
 
- <br>
-  
-   
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -168,7 +165,6 @@
 
 **Thanks for visiting!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
