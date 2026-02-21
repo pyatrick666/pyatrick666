@@ -18,13 +18,13 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://discord.gg/CSxv4tsY"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://facebook.com/evolthrottle"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://instagram.com/evolthrottle"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://reddit.com/user/Pyatrick"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"/></a>
-  <a href="https://youtube.com/@999eMEvol"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="Youtube"/></a>
-  <a href="mailto:pyatrick666@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://open.spotify.com/user/31x66lmobxv6oqfgjj7bmmarookq?si=3d7e4123872e4503&nd=1&dlsi=01b5f515b0564b3b"><img src="https://img.shields.io/badge/Spotify-%1ED760.svg?logo=Spotify&logoColor=white"  alt="Spotify"/></a>
+  <a href="https://discord.gg/CSxv4tsY"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://facebook.com/evolthrottle"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://instagram.com/evolthrottle"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://reddit.com/user/Pyatrick"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"/></a>
+  <a href="https://youtube.com/@999eMEvol"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube"/></a>
+  <a href="mailto:pyatrick666@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://open.spotify.com/user/31x66lmobxv6oqfgjj7bmmarookq?si=3d7e4123872e4503&nd=1&dlsi=01b5f515b0564b3b"><img src="https://img.shields.io/badge/Spotify-%1ED760.svg?style=for-the-badge&logo=Spotify&logoColor=white"  alt="Spotify"/></a>
 </p>
 
 
