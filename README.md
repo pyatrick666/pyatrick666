@@ -161,7 +161,7 @@
 
 <div align="center">
 
-### ⭐ If my work has been helpful to you, Feel free to star some of my repositories!
+### If my work has been helpful to you, Feel free to star⭐ any of my repositories!
 
 **Thanks for visiting!**
 
