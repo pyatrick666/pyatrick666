@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)" alt="Bash_Script"/>
 </p>
 
-### 🎨 Frontend
+### 🚗 Frontend
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -122,7 +122,7 @@
    </p>
     
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img 
@@ -152,7 +152,7 @@
 
 
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 <div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
