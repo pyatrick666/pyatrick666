@@ -8,11 +8,13 @@
 
 <div align="center">
   
+
+
+# About Me:
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=2"/>
 </p>
-
-# About Me:
 
 ### Software Engineering • Networking • Web Development
 
