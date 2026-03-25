@@ -170,7 +170,7 @@
 <div align="center">
 
 ```bash
-> Thank you for visiting...
-> if my work has been helpful to you
-> Feel free to star⭐ any of my repositories!
-> Stay curious,Keep debugging.
+>Thank you for visiting...
+>if my work has been helpful to you
+>Feel free to star⭐ any of my repositories!
+>Stay curious , Keep debugging.
