@@ -184,7 +184,7 @@
 
 > Thank you for visiting...
 
-> if (my_work == helpful) {
+> if (mywork == helpful) {
 >  give_star ⭐ on repositories;
 > }
 
