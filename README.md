@@ -125,10 +125,20 @@
 ## GitHub Statistics
 
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyatrick666&show_icons=true&hide_border=true&count_private=true&theme=chartreuse-dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyatrick666&langs_count=10&count_private=true&hide_border=true&theme=chartreuse-dark&layout=compact) |
+
+  <img src="https://github-readme-stats.vercel.app/api?username=pyatrick666&show_icons=true&hide_border=true&count_private=true&theme=chartreuse-dark" height="170"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyatrick666&langs_count=10&count_private=true&hide_border=true&theme=chartreuse-dark&layout=compact" height="170"/>
+
 </div>
 
 <br/>
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com/?user=pyatrick666&theme=chartreuse-dark&hide_border=true" />
+
+</div>
 
 <div align="center">
   <img 
