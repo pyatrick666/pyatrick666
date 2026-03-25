@@ -125,10 +125,7 @@
 ## GitHub Statistics
 
 <div align="center">
-  <img 
-    src="(https://github-readme-stats.vercel.app/api?username=pyatrick666&show_icons=true&hide_border=true&count_private=true&theme=chartreuse-dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyatrick666&langs_count=10&count_private=true&hide_border=true&theme=chartreuse-dark&layout=compact) | 
-    alt="GitHub Streak Stats" 
-  />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyatrick666&show_icons=true&hide_border=true&count_private=true&theme=chartreuse-dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyatrick666&langs_count=10&count_private=true&hide_border=true&theme=chartreuse-dark&layout=compact) |
 </div>
 
 <br/>
