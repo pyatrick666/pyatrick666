@@ -126,9 +126,9 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=pyatrick666&show_icons=true&hide_border=true&count_private=true&theme=chartreuse-dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pyatrick666&show_icons=true&hide_border=true&count_private=true&theme=merko" height="170"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyatrick666&langs_count=10&count_private=true&hide_border=true&theme=chartreuse-dark&layout=compact" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyatrick666&langs_count=10&count_private=true&hide_border=true&theme=merko&layout=compact" height="170"/>
 
 </div>
 
@@ -136,22 +136,30 @@
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=pyatrick666&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=pyatrick666&theme=merko&hide_border=true" />
 
 </div>
 
+<br/>
+
 <div align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Pyatrick666&bg_color=011627&color=7fdbca&line=c792ea&point=ffeb95&area=true&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pyatrick666&theme=merko&hide_border=true" 
     alt="GitHub Activity Graph"
   />
 </div>
 
+<br/>
+
 ### Profile Views
 
-[![](https://visitcount.itsvg.in/api?id=Pyatrick666&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=pyatrick666&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
