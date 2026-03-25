@@ -12,7 +12,7 @@
 </div>
 
 <!-- ⚡ GLOW DIVIDER -->
-<p align="center">
+<p>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=3"/>
 </p>
 <div align="center">
