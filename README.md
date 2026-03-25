@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### ⚙️ Backend (Professional)
+### ⚙️ Backend
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
@@ -184,7 +184,7 @@
 > Thank you for visiting...
 
 > if (mywork == helpful) {
->  give_star ⭐ on repositories;
+>  givestar ⭐ on repositories;
 > }
 
 >  while(alive) {
