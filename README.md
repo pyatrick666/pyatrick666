@@ -136,9 +136,7 @@
 
 ### Profile Views
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=pyatrick666&icon=0&color=0)](https://visitcount.itsvg.in)
-
+  <img src="https://komarev.com/ghpvc/?username=pyatrick666&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge"/>
 </div>
 <br/>
 <div align="center">
