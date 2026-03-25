@@ -12,9 +12,7 @@
 
 # About Me:
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=2"/>
-</p>
+
 
 ### Software Engineering • Networking • Web Development
 
@@ -23,7 +21,9 @@
 </div>
 
 ## 🌐 Connect with Me
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=2"/>
+</p>
 <p align="center">
   <a href="https://discord.gg/CSxv4tsY"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00FF00"/></a>
   <a href="https://facebook.com/evolthrottle"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00FF00"/></a>
