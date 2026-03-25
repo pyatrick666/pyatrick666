@@ -185,10 +185,10 @@
 > Thank you for visiting...
 
 > if (my_work == helpful) {
->    give_star ⭐ on repositories;
+>  give_star ⭐ on repositories;
 > }
 
-> while(alive) {
+>  while(alive) {
 >    stay_curious();
 >    keep_debugging();
 > }
