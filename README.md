@@ -190,7 +190,7 @@
 
 >  while(alive) {
 >    stay_curious();
->    keep_debugging();
+>      keep_debugging();
 > }
 
 > system.out.println("See you again");
