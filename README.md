@@ -135,7 +135,7 @@
 <br/>
 
 
-<div>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=pyatrick666&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge"/>
 </div>
 <br/>
