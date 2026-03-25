@@ -180,7 +180,17 @@
 <div align="center">
 
 ```bash
->Thank you for visiting...
->if my work has been helpful to you
->Feel free to star⭐ any of my repositories!
->Stay curious , Keep debugging.
+> initializing.exit_protocol()
+
+✔ Thank you for visiting...
+
+> if (my_work == helpful) {
+>     give_star ⭐ on repositories;
+> }
+
+> while(alive) {
+>     stay_curious();
+>     keep_debugging();
+> }
+
+> system.out.println("See you again");
