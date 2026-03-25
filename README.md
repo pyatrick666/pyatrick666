@@ -182,15 +182,15 @@
 ```bash
 > initializing.exit_protocol()
 
-✔ Thank you for visiting...
+> Thank you for visiting...
 
 > if (my_work == helpful) {
->     give_star ⭐ on repositories;
+>    give_star ⭐ on repositories;
 > }
 
 > while(alive) {
->     stay_curious();
->     keep_debugging();
+>    stay_curious();
+>    keep_debugging();
 > }
 
 > system.out.println("See you again");
