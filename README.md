@@ -2,6 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=140&section=header&text$&fontColor=00FF00&fontSize=35&animation=fadeIn"/>
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00FF00&center=true&vCenter=true&width=700&lines=>+Booting+System...;>+Access+Granted+✔;>+User:+PYATRICK666;>+Role:+Full+Stack+Developer;>+Status:+Online+🟢;>+Mode:+Hacker+💀"/>
+</p>
 
 <div align="center">
   
