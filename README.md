@@ -153,7 +153,9 @@
 
 ### Profile Views
 <div align="center">
+  
 [![](https://visitcount.itsvg.in/api?id=pyatrick666&icon=0&color=0)](https://visitcount.itsvg.in)
+
 </div>
 <br/>
 <div align="center">
