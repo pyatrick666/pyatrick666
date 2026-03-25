@@ -1,6 +1,7 @@
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=140&section=header&text=Pyatrick666&fontColor=00FF00&fontSize=35&animation=fadeIn"/>
 </div>
+
 
 <div align="center">
   
@@ -156,6 +157,6 @@
 
 **Thanks for visiting!**
 
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=120&section=footer"/>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
