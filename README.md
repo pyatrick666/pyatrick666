@@ -8,7 +8,7 @@
 
 ### Software Engineering • Networking • Web Development
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Studying+at++University+of+Sunderland;Csharp+,+Python+,+JavaScript;Data+Science,+AI+%26+Machine+Learning;Always+Debugging+%26+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Studying+at++University+of+Sunderland;Csharp+,+Python+,+JavaScript;Data+Science,+AI+%26+Machine+Learning;Always+Debugging+%26+Learning)](https://git.io/typing-svg)
 
 </div>
 
