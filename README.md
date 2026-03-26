@@ -5,17 +5,20 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00FF00&center=true&vCenter=true&width=700&lines=>+Booting+System...;>+Access+Granted+✔;>+User:+PYATRICK666;>+Status:+Online+🟢"/>
 </p>
-
-<!-- 🟢 MATRIX EFFECT (FADED BACKGROUND STYLE) -->
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%"/>
-</div>
-
 <!-- ⚡ GLOW DIVIDER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=3"/>
 </p>
 <div align="center">
+<!-- 🟢 MATRIX EFFECT (FADED BACKGROUND STYLE) -->
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%"/>
+</div>
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=2"/>
+</p>
+
+
   
 
 
@@ -167,9 +170,6 @@
 </div>
 
 
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=2"/>
-</p>
 
 
 <div>
