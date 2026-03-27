@@ -2,29 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=140&section=header&text$&fontColor=00FF00&fontSize=35&animation=fadeIn"/>
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00FF00&center=true&vCenter=true&width=700&lines=>+Booting+System...;>+Access+Granted+✔;>+User:+PYATRICK666;>+Status:+Online+🟢"/>
-</p>
-<!-- ⚡ GLOW DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=3"/>
-</p>
-<div align="center">
-<!-- 🟢 MATRIX EFFECT (FADED BACKGROUND STYLE) -->
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%"/>
-</div>
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=2"/>
-</p>
-
-
-  
-
 
 # About Me:
-
-
 
 ### Software Engineering • Networking • Web Development
 
@@ -36,7 +15,7 @@
 
 <p align="center">
   <a href="https://discord.gg/CSxv4tsY"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://facebook.com/evolthrottle"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://facebook.com/emev0l"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://instagram.com/em_ev0l"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://reddit.com/user/Pyatrick"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
   <a href="https://youtube.com/@999eMEvol"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
@@ -117,7 +96,7 @@
 ### Others
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF00"/>
-  <img src="https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=sass&logoColor=00FF00"/>
+  <img src="https://img.shields.io/badge/SASS-049FD9?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
@@ -176,20 +155,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=120&section=footer"/>
 </div>
 
-<div align="center">
-
-```bash
-> initializing.exit_protocol()
-
-> Thank you for visiting...
-
-> if (mywork == helpful) {
->  givestar ⭐ on repositories;
-> }
-
->  while(alive) {
->    stay_curious();
->       keep_debugging();
-> }
-
-> system.out.println("See you again");
