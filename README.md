@@ -1,11 +1,11 @@
 <div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=140&section=header&text$&fontColor=00FF00&fontSize=35&animation=fadeIn"/>
 </div>
+<div align="center">
 
 # About Me:
 
 ### Software Engineering • Networking • Web Development
-<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Studying+at++University+of+Sunderland;Csharp+,+Python+,+JavaScript;Data+Science,+AI+%26+Machine+Learning;Always+Debugging+%26+Learning)](https://git.io/typing-svg)
 <p><img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="gif"></p>
