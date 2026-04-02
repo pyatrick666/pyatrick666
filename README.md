@@ -109,7 +109,8 @@
 
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pyatrick666&theme=github_dark" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pyatrick666&langs_count=10&hide_border=true&theme=merko&layout=compact" height="170" alt="Top Languages" />
+
 
 
 
