@@ -109,7 +109,7 @@
 
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyatrick666&langs_count=10&count_private=true&hide_border=true&theme=merko&layout=compact" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyatrick666&langs_count=10&count_private=true&hide_border=true&theme=merko&layout=compact />
 
 </div>
 
