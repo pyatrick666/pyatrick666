@@ -109,7 +109,8 @@
 
 
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pyatrick666&theme=merko" height="170" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Skills" />
+
 
 
 </div>
