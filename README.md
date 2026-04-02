@@ -109,8 +109,7 @@
 
 
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Skills" />
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyatrick666&langs_count=10&hide_border=true&theme=merko&layout=compact" height="170" alt="Top Languages" />
 
 
 </div>
