@@ -107,8 +107,7 @@
 
 <div align="center">
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyatrick666&langs_count=10&hide_border=true&theme=merko&layout=compact&cache_seconds=1800" height="170" alt="Top Languages" />
+<img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=pyatrick666&langs_count=10&hide_border=true&theme=merko&layout=compact" />
 
 
 
