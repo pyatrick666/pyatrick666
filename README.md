@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👋 About Me
+# About Me
 
 ### BSc (Hons) Information Technology — Computer Systems Engineering
 
