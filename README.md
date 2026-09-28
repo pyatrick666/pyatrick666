@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=140&section=header&text=Pratik%20Poudel&fontColor=00FF00&fontSize=35&animation=fadeIn" alt="Pratik Poudel header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=140&section=header&fontColor=00FF00&fontSize=35&animation=fadeIn" alt="Profile header"/>
 </div>
 
 <div align="center">
@@ -28,14 +28,6 @@ Software Engineering • Full-Stack Development • Networking • Mobile Develo
 - 🌐 Learning and applying **networking and computer systems**
 - 🎨 Creating interfaces with **Figma** and visual designs with **Canva**
 - 🧪 Improving projects through testing, debugging, and iterative development
-
-## 🧩 Featured Project
-
-### ♟️ ChessMate
-
-A Flutter-based chessboard game focused on a clean mobile experience, complete gameplay flow, game-over/checkmate handling, replay/navigation controls, and AdMob support.
-
-**Repository:** [ChessMate](https://github.com/pyatrick666/ChessMate)
 
 ## 🌐 Connect with Me
 
