@@ -150,7 +150,7 @@ Software Engineering • Full-Stack Development • Networking • Mobile Develo
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pyatrick666&theme=merko&hide_border=true" alt="GitHub activity graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pyatrick666&show_icons=true&theme=merko&hide_border=true" alt="GitHub statistics"/>
 
 <br/><br/>
 
