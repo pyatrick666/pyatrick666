@@ -142,7 +142,7 @@ Software Engineering • Full-Stack Development • Networking • Mobile Develo
 
 <div align="center">
 
-<img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=pyatrick666&langs_count=10&hide_border=true&theme=merko&layout=compact" alt="Top languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pyatrick666&langs_count=10&hide_border=true&theme=merko&layout=compact" alt="Top languages"/>
 
 <br/><br/>
 
