@@ -25,9 +25,9 @@ Software Engineering • Full-Stack Development • Networking • Mobile Develo
 - 🎓 Studying **BSc (Hons) Information Technology — Computer Systems Engineering**
 - 📱 Building and improving **Flutter/Dart mobile applications**
 - 🌐 Developing **full-stack web applications**
-- 🌐 Learning and applying **networking and computer systems**
+- 🌐 Learning **networking** and **systems**
 - 🎨 Creating interfaces with **Figma** and visual designs with **Canva**
-- 🧪 Improving projects through testing, debugging, and iterative development
+- 🧪 Improving projects through **testing**, **debugging**, and **development**
 
 ## 🌐 Connect with Me
 
