@@ -24,77 +24,30 @@ ISMT College, Butwal, Nepal · University of Sunderland
 
 ## About
 
-I'm an Information Technology undergraduate focused on building practical software projects and strengthening my foundations in software engineering and computer systems. I enjoy working across web and mobile development, learning how systems fit together, and improving projects through testing and iteration.
+I'm an Information Technology undergraduate focused on practical software projects and computer systems. I work across web, desktop, and mobile development, and enjoy learning how software connects with databases, networks, and hardware.
 
-My technical interests include AI and machine learning with Python, networking, web application security, and embedded systems.
+My technical interests include **AI and machine learning with Python**, networking, web application security, embedded systems, and full-stack development.
 
 ## Featured Projects
 
-### [ChessMate](https://github.com/pyatrick666/ChessMate)
-A Flutter chess application featuring AI opponents, local two-player games, online multiplayer, real-time chat, and Stockfish integration.
+- **[ChessMate](https://github.com/pyatrick666/ChessMate)** — Flutter chess app with AI opponents, local play, online multiplayer, chat, and Stockfish integration.
+- **[Cyber Awareness 360°](https://github.com/pyatrick666/360-VR-)** — immersive cybersecurity-awareness experience. [Live demo](https://pyatrick666.github.io/360-VR-/)
+- **[Hotel Information & Table Booking System](https://pyatrick666.github.io/Professional-Portfolio/projects/demo-hotelsinfowithtablebookingsystem)** — web application case study covering hotel information, guest booking requests, and owner workflows.
+- **[Raspberry Pi Pico](https://github.com/pyatrick666/RaspberryPi-PICO)** — RP2040 / MicroPython experiments, including DHT22 temperature and humidity sensing.
+- **[CarRentalApp](https://github.com/pyatrick666/CarRentalApp)** — C# Windows Forms application for recording and searching rental bookings with SQL Server.
+- **[Professional Portfolio](https://github.com/pyatrick666/Professional-Portfolio)** — recruiter-facing developer portfolio.
 
-**Focus:** Flutter · Dart · Android · WebSockets · Stockfish
+## Technologies
 
-### [Cyber Awareness 360° VR Experience](https://github.com/pyatrick666/360-VR-)
-An immersive virtual-reality cyber-awareness project developed as part of the Tech Titans enterprise project.
+**Languages:** Python · JavaScript · TypeScript · Java · Dart · C# · PHP · SQL
 
-**Focus:** 360° experience · Cyber awareness · Interactive learning
+**Web & Mobile:** React · Next.js · Flutter · Node.js
 
-[Open the live experience](https://pyatrick666.github.io/360-VR-/)
+**AI & Data:** AI and Machine Learning with Python
 
-### [Hotel Information & Table Booking System](https://pyatrick666.github.io/Professional-Portfolio/projects/demo-hotelsinfowithtablebookingsystem)
-A web application case study covering hotel information, menu presentation, guest booking requests, and owner-facing management workflows.
+**Databases & Systems:** PostgreSQL · MySQL · SQL Server · Linux
 
-**Focus:** Web development · PostgreSQL · Supabase · Booking workflows
-
-### [RaspberryPi-PICO Projects](https://github.com/pyatrick666/RaspberryPi-PICO)
-RP2040 microcontroller experiments, GPIO programs, embedded projects, and sensor-based work.
-
-**Focus:** Raspberry Pi Pico · MicroPython · Embedded systems
-
-### [CarRentalApp](https://github.com/pyatrick666/CarRentalApp)
-A C# Windows desktop application concept for managing vehicle rental workflows and MySQL-backed records.
-
-**Focus:** C# · Windows desktop · MySQL
-
-### [Professional Portfolio](https://github.com/pyatrick666/Professional-Portfolio)
-My recruiter-facing portfolio, built to present my background, selected work, and contact information.
-
----
-
-## Skills & Technologies
-
-**Programming languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-**AI & Machine Learning**
-
-![Python for AI and Machine Learning](https://img.shields.io/badge/Python_for_AI_%26_ML-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Frameworks & development**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
-
-**Databases, systems & tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+**Tools & Design:** Git · GitHub · Figma · Canva
 
 ## Currently Learning
 
@@ -105,8 +58,8 @@ My recruiter-facing portfolio, built to present my background, selected work, an
 ## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=pyatrick666&show_icons=true&hide_border=true&theme=merko&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pyatrick666&layout=compact&hide_border=true&theme=merko&langs_count=8" alt="Most used languages" />
+  <img src="https://img.shields.io/github/followers/pyatrick666?label=GitHub%20Followers&style=for-the-badge&color=00C853" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/last-commit/pyatrick666/Professional-Portfolio?label=Portfolio%20Last%20Commit&style=for-the-badge&color=00C853" alt="Portfolio last commit" />
 </div>
 
 ---
