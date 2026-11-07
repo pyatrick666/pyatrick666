@@ -105,8 +105,8 @@ My recruiter-facing portfolio, built to present my background, selected work, an
 ## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pyatrick666&show_icons=true&hide_border=true&theme=merko&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pyatrick666&layout=compact&hide_border=true&theme=merko&langs_count=8" alt="Most used languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=pyatrick666&show_icons=true&hide_border=true&theme=merko&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pyatrick666&layout=compact&hide_border=true&theme=merko&langs_count=8" alt="Most used languages" />
 </div>
 
 ---
