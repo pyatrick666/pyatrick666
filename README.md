@@ -25,7 +25,10 @@ Software Engineering • Full-Stack Development • Networking • Mobile Develo
 - 🎓 Studying **BSc (Hons) Information Technology — Computer Systems Engineering**
 - 📱 Building and improving **Flutter/Dart mobile applications**
 - 🌐 Developing **full-stack web applications**
-- 🌐 Learning **networking** and **systems**
+- 🌐 Building knowledge in **networking fundamentals** and **computer systems**
+- 🧠 Exploring **Python for machine learning** and practical data workflows
+- 🛡️ Learning web application security testing with **Burp Suite**
+- 💎 Learning **Ruby programming**
 - 🎨 Creating interfaces with **Figma** and visual designs with **Canva**
 - 🧪 Improving projects through **testing**, **debugging**, and **development**
 
@@ -54,6 +57,7 @@ Software Engineering • Full-Stack Development • Networking • Mobile Develo
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruby_Learning-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
@@ -135,6 +139,8 @@ Software Engineering • Full-Stack Development • Networking • Mobile Develo
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Networking_Fundamentals-0A66C2?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
 </p>
 
