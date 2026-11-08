@@ -10,7 +10,7 @@
 
 **ISMT College, Butwal, Nepal · University of Sunderland**
 
-Software Engineering • Full-Stack Development • Networking • Mobile Development
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Building+practical+software+projects;Flutter+%26+Dart+mobile+development;Full-Stack+Web+Development;Networking+%26+Computer+Systems;AI+%26+Machine+Learning+with+Python;Always+Debugging+%26+Learning)](https://git.io/typing-svg)
 
