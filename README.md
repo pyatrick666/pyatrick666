@@ -37,12 +37,14 @@
 
 ## 💼 Featured Projects
 
-- ♟️ **[ChessMate](https://github.com/pyatrick666/ChessMate)** — Flutter chess app with AI opponents, local play, online multiplayer, chat, and Stockfish integration.
+- ♟️ **[ChessMate](https://github.com/pyatrick666/ChessMate)** — Flutter chess app with AI opponents, local play, online multiplayer, chat, and Stockfish integration.  
+  <a href="https://github.com/pyatrick666/ChessMate/releases/latest"><img src="https://img.shields.io/badge/⬇_DOWNLOAD_/_PLAY_NOW-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Download and play ChessMate"/></a>
 - 🛡️ **[Cyber Awareness 360°](https://github.com/pyatrick666/360-VR-)** — immersive cybersecurity-awareness experience. [Live demo](https://pyatrick666.github.io/360-VR/)
 - 🏨 **[Hotel Information & Table Booking System](https://pyatrick666.github.io/Professional-Portfolio/projects/demo-hotelsinfowithtablebookingsystem)** — web application case study covering hotel information, guest booking requests, and owner workflows.
 - 🍓 **[Raspberry Pi Pico Projects](https://github.com/pyatrick666/RaspberryPi-PICO)** — RP2040 and MicroPython experiments, including DHT22 temperature and humidity sensing.
 - 🚗 **[CarRentalApp](https://github.com/pyatrick666/CarRentalApp)** — C# Windows Forms application for recording and searching rental bookings with SQL Server.
-- 💻 **[Professional Portfolio](https://github.com/pyatrick666/Professional-Portfolio)** — recruiter-facing developer portfolio showcasing projects, skills, and contact information.
+- 💻 **[Professional Portfolio](https://github.com/pyatrick666/Professional-Portfolio)** — recruiter-facing developer portfolio showcasing projects, skills, and contact information.  
+  <a href="https://pyatrick666.github.io/Professional-Portfolio/"><img src="https://img.shields.io/badge/↗_VIEW_PORTFOLIO-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Professional Portfolio"/></a>
 
 ## 🌐 Connect with Me
 
